@@ -1,0 +1,15 @@
+C:\Users\henkb\source\repos\CSharp8_Switch_Expressions_Demo\CSharp8\bin\Debug\net6.0\CSharp8.exe
+C:\Users\henkb\source\repos\CSharp8_Switch_Expressions_Demo\CSharp8\bin\Debug\net6.0\CSharp8.deps.json
+C:\Users\henkb\source\repos\CSharp8_Switch_Expressions_Demo\CSharp8\bin\Debug\net6.0\CSharp8.runtimeconfig.json
+C:\Users\henkb\source\repos\CSharp8_Switch_Expressions_Demo\CSharp8\bin\Debug\net6.0\CSharp8.dll
+C:\Users\henkb\source\repos\CSharp8_Switch_Expressions_Demo\CSharp8\bin\Debug\net6.0\CSharp8.pdb
+C:\Users\henkb\source\repos\CSharp8_Switch_Expressions_Demo\CSharp8\obj\Debug\net6.0\CSharp8.csproj.AssemblyReference.cache
+C:\Users\henkb\source\repos\CSharp8_Switch_Expressions_Demo\CSharp8\obj\Debug\net6.0\CSharp8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\henkb\source\repos\CSharp8_Switch_Expressions_Demo\CSharp8\obj\Debug\net6.0\CSharp8.AssemblyInfoInputs.cache
+C:\Users\henkb\source\repos\CSharp8_Switch_Expressions_Demo\CSharp8\obj\Debug\net6.0\CSharp8.AssemblyInfo.cs
+C:\Users\henkb\source\repos\CSharp8_Switch_Expressions_Demo\CSharp8\obj\Debug\net6.0\CSharp8.csproj.CoreCompileInputs.cache
+C:\Users\henkb\source\repos\CSharp8_Switch_Expressions_Demo\CSharp8\obj\Debug\net6.0\CSharp8.dll
+C:\Users\henkb\source\repos\CSharp8_Switch_Expressions_Demo\CSharp8\obj\Debug\net6.0\refint\CSharp8.dll
+C:\Users\henkb\source\repos\CSharp8_Switch_Expressions_Demo\CSharp8\obj\Debug\net6.0\CSharp8.pdb
+C:\Users\henkb\source\repos\CSharp8_Switch_Expressions_Demo\CSharp8\obj\Debug\net6.0\CSharp8.genruntimeconfig.cache
+C:\Users\henkb\source\repos\CSharp8_Switch_Expressions_Demo\CSharp8\obj\Debug\net6.0\ref\CSharp8.dll

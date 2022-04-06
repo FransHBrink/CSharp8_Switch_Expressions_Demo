@@ -5,6 +5,11 @@ VisualStudioVersion = 17.1.32328.378
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharp8", "CSharp8\CSharp8.csproj", "{1B7154DF-8E93-4BDF-AFB7-17A5394991A3}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{1A02CF64-DD61-458B-8E66-5407D47782B0}"
+	ProjectSection(SolutionItems) = preProject
+		CurrencyHelper.cs = CurrencyHelper.cs
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU

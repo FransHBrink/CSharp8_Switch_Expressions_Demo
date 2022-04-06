@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace CSharp8.Enums
 {
-    internal enum Currency
+    public enum Currency
     {
         NZD = 0,
         USD = 1,
